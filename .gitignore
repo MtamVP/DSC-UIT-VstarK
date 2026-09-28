@@ -1,0 +1,9 @@
+# Ignore everything in the root
+/*
+# Except the files we care about
+!/solution.py
+!/README.md
+!/requirements.txt
+!/.gitignore
+!/submission_task1.zip
+!/submission_task2.zip
